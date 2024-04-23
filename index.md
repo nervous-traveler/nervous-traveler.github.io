@@ -13,7 +13,7 @@ As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
-1. Find the correct ticket machine with the Passport logo above the screen.  [Insert Photo of Green Ticket Machine]
+1. Find the correct ticket machine with the Passport logo above the screen ![Passport](/nervous-traveler/assets/jrpassport.png).  [Insert Photo of Green Ticket Machine]
 2. Select “Receive Reserved Tickets”
 3. Select Exchange Order
 4. Scan your voucher’s QR Code.
@@ -25,6 +25,6 @@ In order to receive your physical pass you’ll need to:
 ##### Important Notes:
 - The physical credit card used to purchase the voucher online may be required. Avoid using numberless or virtual cards.
 - The pass validity starts and ends at midnight, counting the effective date as a full day regardless of when you receive it.
-- To exchange your voucher at a Green Ticket Machine, your passport must have a biometric chip (look for this symbol on your passport) 
+- To exchange your voucher at a Green Ticket Machine, your passport must have a biometric chip (look for this symbol on your passport) ![Biometric](/nervous-traveler/assets/biometric.png)
 - Exchange your voucher within 90 days of purchase; don't buy it more than 90 days before your trip
 With your JR Pass in hand, you'll likely want to do one of three things: hop on a city bus, take a train, or reserve your seat for a shinkansen/limited express.
