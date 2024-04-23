@@ -60,3 +60,40 @@ __This only works at JR stations for JR lines__ (their entrances are generally s
 8. Take your passes and tickets (a receipt will be printed as well). 
 
 If you're heading straight from the machine to the platform, keep both your pass and ticket(s) handy! You'll need both to pass through the gate. Assuming your pass has a magnetic stripe (identified by its black backside), __insert both your pass and ticket(s) into the allocated slot at the ticket gate simultaneously__ (literally put both in at the same time). Both your pass and ticket(s) will be returned to you on the other side of the gate. __When exiting the gate at your destination station, the ticket(s) will be collected, and only your pass will be returned.__
+
+<p align="center">
+  <img src="/assets/jrpass2tickets.png">
+</p>
+
+_Important Notes:_ 
+
+- _Not all Green Ticket Machines are created equal. __Make sure to use a machine that mentions “Shinkansen”, “Reserved and Non-Reserved Tickets” or “Pass OK” nearby__. These machines usually have a large green sign above them._
+- _Some __smaller stations may not have this reserved seat ticket machine.__ If this is the case, flag down a JR attendant or find a JR Ticket Office for help._
+- _When inserting multiple passes into the machine, wait for the screen to recognize each pass before inserting another._
+- _Unless you have a green car JR Pass, __select the “ordinary car” option__ to avoid an additional “Green Car” fee._
+- _You can only reserve seats six times at a ticket machine; additional reservations must be made at a ticket office._
+- _If you plan to use a non-reserved car, you can bypass the ticket vending machine and go directly through the gate with only your JR pass (note: __some trains only have reserved cars__, so check the train’s details beforehand)._
+- _The Nozomi and Mizuho trains are __not__ covered by any JR area passes._
+- _Ticket machine lines can be long, but they're usually shorter inside the station (just insert your JR pass to get through the JR gate and obtain the reserved seat ticket from a machine inside). Plan accordingly!_
+
+##### Reserving Seats Without a JR Pass
+1. Locate the correct ticket machine. 
+2. Select “Reserve Seat(s)”.
+3. Select the train type (i.e. limited express, rapid, shinkansen…)
+4. Ensure the departure station is correct 
+5. Select your arrival station
+6. Select the departure time
+7. Follow system prompts for the number and type of passengers
+8. Choose either “one-way” or “round-trip” (if selecting round-trip, fill out the details before continuing; if undecided, choose one-way).
+9. Follow system prompts for car and seat selection.
+10. Confirm your selections.
+11. When prompted, insert your card or cash.
+12. Take your ticket(s) and receipt.
+
+You’ll insert the ticket(s) into the gate's slot when passing through and/or when leaving your destination station.
+
+__It’s important to note that you need both a basic fare ticket and a limited express ticket for limited express trains and shinkansen.__ When prompted by the ticket vending machine, be sure to select that you need both.
+
+If you, like me, make the mistake of purchasing only one of the two required tickets before continuing to the gate, don’t worry; the gate will give you an error and return your ticket to you. You can also return to a ticket machine to purchase the correct accompanying ticket. Save yourself a step and select “both”.
+
+**Pro-Tip: __If you sit on the North/West side of the Tokaido Shinkansen (Nozomi, Hikari, and Kodoma), you’ll have a front-row (read: window) seat to view Mt. Fuji in all its glory.__ For our Nozomi shinkansen, this meant sitting in the D/F seats. Mind you, these seats were BOOKED UP when we were reserving our seats, but we managed to get 2 seats in a green car. We had to wait an additional 45 minutes or so, but it was worth it! Reserve your seats early for this ride.
