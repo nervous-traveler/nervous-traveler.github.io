@@ -13,7 +13,7 @@ As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
-1. Find the correct ticket machine with the Passport logo above the screen <img src="/assets/jrpassport.png" width="25">.  [Insert Photo of Green Ticket Machine]
+1. Find the correct ticket machine with the Passport logo above the screen: <br> <img src="/assets/jrpassport.png" width="25">  [Insert Photo of Green Ticket Machine]
 2. Select “Receive Reserved Tickets”
 3. Select Exchange Order
 4. Scan your voucher’s QR Code.
@@ -25,7 +25,7 @@ In order to receive your physical pass you’ll need to:
 ##### Important Notes:
 - The physical credit card used to purchase the voucher online may be required. Avoid using numberless or virtual cards.
 - The pass validity starts and ends at midnight, counting the effective date as a full day regardless of when you receive it.
-- To exchange your voucher at a Green Ticket Machine, your passport must have a biometric chip (look for this symbol on your passport) <img src="/assets/biometric.png" width="50">
+- To exchange your voucher at a Green Ticket Machine, your passport must have a biometric chip (look for this symbol on your passport): <br> <img src="/assets/biometric.png" width="50">
 - Exchange your voucher within 90 days of purchase; don't buy it more than 90 days before your trip
 With your JR Pass in hand, you'll likely want to do one of three things: hop on a city bus, take a train, or reserve your seat for a shinkansen/limited express.
 
@@ -97,3 +97,30 @@ __It’s important to note that you need both a basic fare ticket and a limited 
 If you, like me, make the mistake of purchasing only one of the two required tickets before continuing to the gate, don’t worry; the gate will give you an error and return your ticket to you. You can also return to a ticket machine to purchase the correct accompanying ticket. Save yourself a step and select “both”.
 
 **Pro-Tip: __If you sit on the North/West side of the Tokaido Shinkansen (Nozomi, Hikari, and Kodoma), you’ll have a front-row (read: window) seat to view Mt. Fuji in all its glory.__ For our Nozomi shinkansen, this meant sitting in the D/F seats. Mind you, these seats were BOOKED UP when we were reserving our seats, but we managed to get 2 seats in a green car. We had to wait an additional 45 minutes or so, but it was worth it! Reserve your seats early for this ride.
+
+### Non-JR Lines vs. JR Lines
+
+#### Major Similarities and Differences
+
+__Non-JR lines often offer faster, more direct urban routes and include services like limited express and rapid trains, while JR lines cover more rural and intercity areas.__ The high-speed Shinkansen, operated by JR companies such as JR East, JR Central, and JR West, contrasts with JR's slower conventional trains, making the JR Pass a valuable option for long-distance travel. __Note that most cities lack a local JR bus service.__
+
+__Transfers between JR and non-JR lines at stations require exiting one system and entering another due to separate operations,__ so don’t be surprised if you’re seemingly being led outside the station when transferring lines.
+If you purchase a JR pass, I’d recommend using [Navitime’s route feature](https://japantravel.navitime.com/en/area/jp/route/) to plan your routes. Unlike Google Maps, Navitime allows you to prioritize transport with different JR area passes. However, we found that Google Maps had the most up-to-date fare information for both JR and non-JR lines.
+
+#### City Buses (Non-JR)
+
+Note that most cities lack a local JR bus service at all. In the cities that do have a JR Bus, the lines are limited. For example, Kyoto has one JR bus line, while Kanazawa has two, both serving major tourist spots. Non-JR city buses usually offer more frequent stops and services—such as every 15 minutes in Kyoto, compared to 30 minutes for JR buses.
+[Insert Kyoto Bus JR Line]
+
+1. Use an IC card (more on this below) to tap on and off of the bus or have exact change ready.
+2. Tap your IC card or take a ticket when boarding.
+3. If you take a ticket upon boarding, your fare is determined by the zone you enter and the zone you exit. 
+4. Press the stop button in advance to signal your stop. 
+5. Pay the fare by inserting your ticket and the required cash into the fare machine, or tap your IC card again at the reader near the driver.
+
+
+- Aside from Tokyo, you’ll board most buses through the rear door and exit through the front door near the driver. 
+- Most buses do not provide change, so make sure to bring exact change, bring notes to exchange at the front of the bus (using the change machine) or use an IC Card
+- Google was always accurate when it came to the fare estimates
+- In some cities, like Kyoto (230¥), there is a flat fare
+
