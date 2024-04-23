@@ -185,11 +185,12 @@ __Whether using a virtual or physical card, you only need to tap your card at th
 While I primarily used the SUICA for transportation and purchases at 7/11, I noticed the Suica logo almost everywhere I saw the Mastercard logo, from duty-free stores to restaurants.
 
 #### Reloading an IC Card
+
 If you have a virtual card, you can reload it simply with Apple Pay. Otherwise, you can reload it at a recharge machine (the machine must have a scanner) with cash.
 For those with a physical card, you will need to reload your card at an IC recharge machine. Unfortunately, this must be done with cash in 1000¥ increments. For those with a physical Pasmo card, you can reload the card on [select buses and at some shops](https://www.pasmo.co.jp/visitors/en/charge/) and convenience stores.
-[Insert IC Machine and Recharge Machine with Scanner] 
+
+[Insert IC Machine and Recharge Machine with Scanner]
+
 **Pro-Tip: If using a virtual card, you can reload your Suica at a recharge machine with any remaining Yen notes that you have left over at the end of your trip. We managed to zero out our Suica balances by doing this and by loading the exact additional amount needed to purchase some coffee and duty-free items at the airport.
 
 ## Itinerary
----
-
