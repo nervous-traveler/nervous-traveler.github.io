@@ -13,7 +13,7 @@ As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
-1. Find the correct ticket machine with the Passport logo above the screen ![Passport](/assets/jrpassport.png).  [Insert Photo of Green Ticket Machine]
+1. Find the correct ticket machine with the Passport logo above the screen <img src="/assets/jrpassport.png" width="25">.  [Insert Photo of Green Ticket Machine]
 2. Select “Receive Reserved Tickets”
 3. Select Exchange Order
 4. Scan your voucher’s QR Code.
