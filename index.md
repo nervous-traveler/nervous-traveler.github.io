@@ -124,3 +124,72 @@ Note that most cities lack a local JR bus service at all. In the cities that do 
 - Google was always accurate when it came to the fare estimates
 - In some cities, like Kyoto (230¥), there is a flat fare
 
+#### Tokyo Subways vs. Trains
+
+- Subway system (Non-JR)
+  + Used for intra-city travel within central Tokyo
+  + Extensive coverage and frequent services
+  + Great for short-distance trips and accessing various neighborhoods
+- Yamanote and Chuo Trains (JR Lines)
+  + Operated by JR East
+  + Provide essential connections within Greater Tokyo
+  + Relied upon for both regional and intra-city travel
+
+[Insert Yamanote and Chiuo Line vs Subway Line]
+
+
+Overall, the subway system tends to be more heavily utilized for day-to-day travel within central Tokyo, while JR trains are relied upon for both regional and intra-city travel. It’s crucial to keep this in mind when deciding on whether you should purchase a JR pass for Tokyo or not. __While we made use of both the Yamanote and Chuo lines during our 7-day stay in Tokyo, the subway system was our primary mode of transportation, as it provided a wider range of destinations.__
+
+### IC Cards
+
+#### Getting an IC Card
+There are numerous IC cards out there. I had read online that __these cards are generally compatible and interchangeable with each other.__ So, we each added 3,000¥ (about $20 USD at the time) to our virtual Suica cards via Apple Wallet, and we were ready to go. However, we cluelessly tried scanning our Suica cards while getting on the city bus in Kanazawa. Fortunately, a young gentleman (presumably a local hero) saved us some embarrassment by explaining Suica doesn’t work on this line. He pointed at the app on his phone, showing the ICOCA card he had installed.
+
+[Insert Suica, Pasmo, ICOCA logos] 
+
+All this to say, there are various types of IC cards: Suica, Pasmo, ICOCA, Kitaca, and Sugoca to name a few… So do your research on which IC card will be accepted at the cities you are visiting. Other than the city bus line in Kanazawa, we were able to use our Suica card everywhere we went, including Kyoto and Nara.
+
+Side note: __While IC cards can be reloaded at essentially any IC Card machine, new cards can only be issued in their appropriate region.__ ICOCA will be the default choice for those starting their adventure in Osaka. Suica or Pasmo are the options for those starting off in Tokyo. There are others, but I think it’s wise to get your card right off the bat. For the majority of people, this will either be in Osaka or Tokyo.
+
+Once you have identified the type of IC card that will work best for you, you’ll need to get your hands on one.
+
+__If you’re the proud owner of an iPhone, the easiest thing to do is to [add the transit](https://support.apple.com/en-us/105079) card to your Apple Wallet. This is only available for Suica, Pasmo, and ICOCA.__ This is only available for Suica, Pasmo, and ICOCA. It is possible to download multiple Suica cards on your phone so, while I didn’t try this, I’m assuming it’s possible to scan in your iPhone-less travel companions (so long as you let them pass through the gate first).
+
+Having the virtual card saved us a ton of time and energy searching for IC recharge stations, since we were able to load the cards with funds via Apple Pay.
+
+[Insert Picture of Transit Card on Apple Wallet]
+
+__If you don’t have an iPhone; however, you’ll need to pick up a physical card at one of the IC Machines.__ They’re easy to identify, as they are generally painted pink or black. We never got physical cards, so I don’t have any experience using these machines, but we did see there were different machines for receiving new physical cards and recharging your existing card.
+
+Unless using iPhone’s virtual card or the Welcome Suica/Pasmo Passport (special card for tourists), you’ll need to make a 500¥ deposit, which you’ll get back upon returning the card at the end of your trip. ICOCA operates similarly.
+
+Previously, the standard physical cards had a tendency to sell out, so it’s advised to get the tourist IC Card ([such as the Pasmo Passport](https://www.pasmo.co.jp/visitors/en/)). Suica’s tourist card, Welcome Suica, can only be picked up at Haneda airport and must be ordered in advance. The IC Card information and availability changes frequently so be sure to check the official Pasmo or JR websites for the most up-to-date information regarding IC cards and where to get them.
+
+Unlike with a virtual card, if you are traveling with children between the ages of 6 and 11, you can purchase a reduced-fare IC card for them by getting a physical card in-person at an office (be sure to bring documents that prove your child’s age).
+
+#### Using an IC Card
+IC Cards can be used almost anywhere a credit card can be used; just look for the logo at the storefront or cash register.
+[Insert Picture of IC Card Logos with accepted payment methods]
+
+These smart cards are incredibly useful. Here are just a few things you can buy with your shiny Suica:
+- Bus Fare
+- Subway Fare
+- Train Fare
+- Shinkansen Basic Fare
+- Meals at some restaurants
+- Convenience store purchases
+- Vending Machine Items
+
+__Whether using a virtual or physical card, you only need to tap your card at the ticket gate or bus fare reader to use it.__ Once scanned, your new balance will be displayed on the screen at ticket gates. __Both iPhone and Android users can download a card reader to check the balance of the card__ (this is different from the virtual card app or transit card available for iPhone).
+
+While I primarily used the SUICA for transportation and purchases at 7/11, I noticed the Suica logo almost everywhere I saw the Mastercard logo, from duty-free stores to restaurants.
+
+#### Reloading an IC Card
+If you have a virtual card, you can reload it simply with Apple Pay. Otherwise, you can reload it at a recharge machine (the machine must have a scanner) with cash.
+For those with a physical card, you will need to reload your card at an IC recharge machine. Unfortunately, this must be done with cash in 1000¥ increments. For those with a physical Pasmo card, you can reload the card on [select buses and at some shops](https://www.pasmo.co.jp/visitors/en/charge/) and convenience stores.
+[Insert IC Machine and Recharge Machine with Scanner] 
+**Pro-Tip: If using a virtual card, you can reload your Suica at a recharge machine with any remaining Yen notes that you have left over at the end of your trip. We managed to zero out our Suica balances by doing this and by loading the exact additional amount needed to purchase some coffee and duty-free items at the airport.
+
+## Itinerary
+---
+
