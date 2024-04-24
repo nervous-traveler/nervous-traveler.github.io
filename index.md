@@ -12,19 +12,26 @@ After [comparing our itinerary’s train costs](https://www.japan-guide.com/rail
 
 JR regional passes can be bought on JR West, JR East, or JR Central websites, the JR global website, or through third-party travel agencies (we used Klook, saving a few dollars). Whether purchased through Japan Rail or not, you receive a physical or virtual voucher __(read: exchange order)__ that needs to be exchanged for a physical pass __in person__. This can be done at a ticket vending machine or ticket office, but __regional passes can only be exchanged at their respective JR stations.__
 
-As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West station to exchange our voucher. For us, this meant stopping in Toyama for the pass before heading to Kanazawa. This minor inconvenience was overshadowed by the fact that the Shinkansen ride from Toyama to Kanazawa was fully covered by our new, shiny pass. [Photo of Kansai-Hokuriku Area Pass]
+As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West station to exchange our voucher. For us, this meant stopping in Toyama for the pass before heading to Kanazawa. This minor inconvenience was overshadowed by the fact that the Shinkansen ride from Toyama to Kanazawa was fully covered by our new, shiny pass. 
+
+<p align="center">
+  <img src="/assets/kansai-hokuriku-jr-area-pass.png">  
+</p>
 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
-1. Find the correct ticket machine with the Passport logo above the screen: <br> <img src="/assets/jrpassport.png" width="25">  [Insert Photo of Green Ticket Machine]
+<p align="center">
+  <img src="/assets/passport-green-ticket-machine.JPEG">  
+</p>
+1. Find the correct ticket machine with the Passport logo above the screen, as seen in the picture above <br> <img src="/assets/jrpassport.png" width="25">
 2. Select “Receive Reserved Tickets”
 3. Select Exchange Order
-4. Scan your voucher’s QR Code.
-5. Enter the effective date (usually the same day).
+4. Scan your voucher’s QR Code
+5. Enter the effective date (usually the same day)
 6. Agree to the Terms and Conditions 
 7. When prompted, scan your passport
-8. Once the machine reads your passport, the tickets will print.
+8. Once the machine reads your passport, the tickets will print
 
 ##### Important Notes:
 - The physical credit card used to purchase the voucher online may be required. Avoid using numberless or virtual cards.
@@ -139,7 +146,9 @@ Note that most cities lack a local JR bus service at all. In the cities that do 
   + Provide essential connections within Greater Tokyo
   + Relied upon for both regional and intra-city travel
 
-[Insert Yamanote and Chiuo Line vs Subway Line]
+<p align="center">
+  <img src="/assets/jr-line-map-tokyo.jpg">  
+</p>
 
 
 Overall, the subway system tends to be more heavily utilized for day-to-day travel within central Tokyo, while JR trains are relied upon for both regional and intra-city travel. It’s crucial to keep this in mind when deciding on whether you should purchase a JR pass for Tokyo or not. __While we made use of both the Yamanote and Chuo lines during our 7-day stay in Tokyo, the subway system was our primary mode of transportation, as it provided a wider range of destinations.__
@@ -149,7 +158,9 @@ Overall, the subway system tends to be more heavily utilized for day-to-day trav
 #### Getting an IC Card
 There are numerous IC cards out there. I had read online that __these cards are generally compatible and interchangeable with each other.__ So, we each added 3,000¥ (about $20 USD at the time) to our virtual Suica cards via Apple Wallet, and we were ready to go. However, we cluelessly tried scanning our Suica cards while getting on the city bus in Kanazawa. Fortunately, a young gentleman (presumably a local hero) saved us some embarrassment by explaining Suica doesn’t work on this line. He pointed at the app on his phone, showing the ICOCA card he had installed.
 
-[Insert Suica, Pasmo, ICOCA logos] 
+<p align="center">
+  <img src="/assets/suica-pasmo-icoca-suica logo.jpg">  
+</p>
 
 All this to say, there are various types of IC cards: Suica, Pasmo, ICOCA, Kitaca, and Sugoca to name a few… So do your research on which IC card will be accepted at the cities you are visiting. Other than the city bus line in Kanazawa, we were able to use our Suica card everywhere we went, including Kyoto and Nara.
 
@@ -161,7 +172,9 @@ __If you’re the proud owner of an iPhone, the easiest thing to do is to [add t
 
 Having the virtual card saved us a ton of time and energy searching for IC recharge stations, since we were able to load the cards with funds via Apple Pay.
 
-[Insert Picture of Transit Card on Apple Wallet]
+<p align="center">
+  <img src="/assets/iphone-transit-cards.PNG">  
+</p>
 
 __If you don’t have an iPhone; however, you’ll need to pick up a physical card at one of the IC Machines.__ They’re easy to identify, as they are generally painted pink or black. We never got physical cards, so I don’t have any experience using these machines, but we did see there were different machines for receiving new physical cards and recharging your existing card.
 
@@ -193,7 +206,9 @@ While I primarily used the SUICA for transportation and purchases at 7/11, I not
 If you have a virtual card, you can reload it simply with Apple Pay. Otherwise, you can reload it at a recharge machine (the machine must have a scanner) with cash.
 For those with a physical card, you will need to reload your card at an IC recharge machine. Unfortunately, this must be done with cash in 1000¥ increments. For those with a physical Pasmo card, you can reload the card on [select buses and at some shops](https://www.pasmo.co.jp/visitors/en/charge/) and convenience stores.
 
-[Insert IC Machine and Recharge Machine with Scanner]
+<p align="center">
+  <img src="/assets/purchase-new-ic-screen.jpg">  
+</p>
 
 **Pro-Tip: If using a virtual card, you can reload your Suica at a recharge machine with any remaining Yen notes that you have left over at the end of your trip. We managed to zero out our Suica balances by doing this and by loading the exact additional amount needed to purchase some coffee and duty-free items at the airport.
 
