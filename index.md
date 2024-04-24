@@ -45,7 +45,7 @@ Don’t make the mistake of getting on a city bus and trying to show your JR pas
 If you're traveling on a JR local train, simply slide your pass through the gate’s designated “ticket” slot at the platform. Don’t worry, the pass will be returned to you at the other end of the gate. __Gates labeled “IC” won't have a slot for your ticket. It's also important to note that if your pass doesn't have a black backside, you can't use the gate and must show it to an attendant on duty__ (usually near the gates or in a designated window).
 
 <p align="center">
-  <img src="/assets/jrpassticket.jpg">  
+  <img src="/assets/jrpassticket.png">  
 </p>
 When you arrive at your destination, send your pass through the ticket gate again, and it will be returned to you.
 
