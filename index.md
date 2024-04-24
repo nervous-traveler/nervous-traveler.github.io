@@ -1,6 +1,6 @@
 Traveling to Japan can be an exciting and enriching experience, but the preparation process can be overwhelming. As I planned my trip to Japan, I delved deep into research to gather information on transportation, the dozens of JR passes, IC cards, and the cities I was visiting. My goal was to feel confident and well-prepared before setting foot on Japanese soil. I found myself asking more questions than I was finding answers to. The abundance of information scattered across various sources prompted me to compile everything into one comprehensive guide to assist fellow travelers in navigating Japan with ease. 
 
-Reflecting on my incredible journey in Japan, I felt compelled to share my insights to help others avoid common frustrations and fully immerse themselves in the beauty of this unique country. This blog serves as a culmination of my personal experiences and research, aimed at empowering travelers to make the most of their trip and enjoy every moment without the stress of uncertainty. Join me on this virtual journey to Japan, where I offer practical advice and valuable tips to ensure a memorable and seamless travel experience.
+Reflecting on my incredible journey in Japan, I felt compelled to share my insights to help others avoid common frustrations and fully immerse themselves in the beauty of this unique country. This blog serves as a culmination of my personal experiences and research, aimed at empowering travelers to make the most of their trip and enjoy every moment without the stress of uncertainty. 
 
 ## Transportation
 
