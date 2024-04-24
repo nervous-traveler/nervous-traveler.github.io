@@ -15,14 +15,14 @@ JR regional passes can be bought on JR West, JR East, or JR Central websites, th
 As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West station to exchange our voucher. For us, this meant stopping in Toyama for the pass before heading to Kanazawa. This minor inconvenience was overshadowed by the fact that the Shinkansen ride from Toyama to Kanazawa was fully covered by our new, shiny pass. 
 
 <p align="center">
-  <img src="/assets/kansai-hokuriku-jr-area-pass.png">  
+  <img src="/assets/kansai-hokuriku-jr-area-pass.png" width="300">  
 </p>
 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
 <p align="center">
-  <img src="/assets/passport-green-ticket-machine.JPEG">  
+  <img src="/assets/passport-green-ticket-machine.JPEG" width="400">  
 </p>
 1. Find the correct ticket machine with the Passport logo above the screen, as seen in the picture above <br> <img src="/assets/jrpassport.png" width="25">
 2. Select “Receive Reserved Tickets”
@@ -52,7 +52,7 @@ Don’t make the mistake of getting on a city bus and trying to show your JR pas
 If you're traveling on a JR local train, simply slide your pass through the gate’s designated “ticket” slot at the platform. Don’t worry, the pass will be returned to you at the other end of the gate. __Gates labeled “IC” won't have a slot for your ticket. It's also important to note that if your pass doesn't have a black backside, you can't use the gate and must show it to an attendant on duty__ (usually near the gates or in a designated window).
 
 <p align="center">
-  <img src="/assets/jrpassticket.png">  
+  <img src="/assets/jrpassticket.png" width="600">
 </p>
 When you arrive at your destination, send your pass through the ticket gate again, and it will be returned to you.
 
@@ -73,7 +73,7 @@ __This only works at JR stations for JR lines__ (their entrances are generally s
 If you're heading straight from the machine to the platform, keep both your pass and ticket(s) handy! You'll need both to pass through the gate. Assuming your pass has a magnetic stripe (identified by its black backside), __insert both your pass and ticket(s) into the allocated slot at the ticket gate simultaneously__ (literally put both in at the same time). Both your pass and ticket(s) will be returned to you on the other side of the gate. __When exiting the gate at your destination station, the ticket(s) will be collected, and only your pass will be returned.__
 
 <p align="center">
-  <img src="/assets/jrpass2tickets.png">
+  <img src="/assets/jrpass2tickets.png" width="600">
 </p>
 
 _Important Notes:_ 
@@ -147,7 +147,7 @@ Note that most cities lack a local JR bus service at all. In the cities that do 
   + Relied upon for both regional and intra-city travel
 
 <p align="center">
-  <img src="/assets/jr-line-map-tokyo.jpg">  
+  <img src="/assets/jr-line-map-tokyo.jpg" width="600">  
 </p>
 
 
@@ -159,7 +159,7 @@ Overall, the subway system tends to be more heavily utilized for day-to-day trav
 There are numerous IC cards out there. I had read online that __these cards are generally compatible and interchangeable with each other.__ So, we each added 3,000¥ (about $20 USD at the time) to our virtual Suica cards via Apple Wallet, and we were ready to go. However, we cluelessly tried scanning our Suica cards while getting on the city bus in Kanazawa. Fortunately, a young gentleman (presumably a local hero) saved us some embarrassment by explaining Suica doesn’t work on this line. He pointed at the app on his phone, showing the ICOCA card he had installed.
 
 <p align="center">
-  <img src="/assets/suica-pasmo-icoca-suica logo.jpg">  
+  <img src="/assets/suica-pasmo-icoca-suica logo.jpg" width="600">  
 </p>
 
 All this to say, there are various types of IC cards: Suica, Pasmo, ICOCA, Kitaca, and Sugoca to name a few… So do your research on which IC card will be accepted at the cities you are visiting. Other than the city bus line in Kanazawa, we were able to use our Suica card everywhere we went, including Kyoto and Nara.
@@ -173,7 +173,7 @@ __If you’re the proud owner of an iPhone, the easiest thing to do is to [add t
 Having the virtual card saved us a ton of time and energy searching for IC recharge stations, since we were able to load the cards with funds via Apple Pay.
 
 <p align="center">
-  <img src="/assets/iphone-transit-cards.PNG">  
+  <img src="/assets/iphone-transit-cards.PNG" width="200">  
 </p>
 
 __If you don’t have an iPhone; however, you’ll need to pick up a physical card at one of the IC Machines.__ They’re easy to identify, as they are generally painted pink or black. We never got physical cards, so I don’t have any experience using these machines, but we did see there were different machines for receiving new physical cards and recharging your existing card.
