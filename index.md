@@ -21,7 +21,7 @@ As we chose the Kansai-Hokuriku Pass, a JR West Pass, we had to go to a JR West 
 Note that JR West’s “Green Ticket Machines” differ from JR East’s ticket vending machines so the process is slightly different. 
 
 In order to receive your physical pass you’ll need to:
-1. Find the correct ticket machine with the Passport logo above the screen, as seen in the picture above <br> <img src="/assets/jrpassport.png" width="25">
+1. Find the correct ticket machine with the Passport logo above the screen, as seen in the picture below
 2. Select “Receive Reserved Tickets”
 3. Select Exchange Order
 4. Scan your voucher’s QR Code
@@ -151,7 +151,6 @@ Note that most cities lack a local JR bus service at all. In the cities that do 
   <img src="/assets/jr-line-map-tokyo.jpg" width="600">  
 </p>
 
-
 Overall, the subway system tends to be more heavily utilized for day-to-day travel within central Tokyo, while JR trains are relied upon for both regional and intra-city travel. It’s crucial to keep this in mind when deciding on whether you should purchase a JR pass for Tokyo or not. __While we made use of both the Yamanote and Chuo lines during our 7-day stay in Tokyo, the subway system was our primary mode of transportation, as it provided a wider range of destinations.__
 
 ### IC Cards
@@ -187,7 +186,10 @@ Unlike with a virtual card, if you are traveling with children between the ages 
 
 #### Using an IC Card
 IC Cards can be used almost anywhere a credit card can be used; just look for the logo at the storefront or cash register.
-[Insert Picture of IC Card Logos with accepted payment methods]
+
+<p align="center">
+  <img src="/assets/accepted-payment-methods.jpg" width="600">  
+</p>
 
 These smart cards are incredibly useful. Here are just a few things you can buy with your shiny Suica:
 - Bus Fare
