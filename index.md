@@ -77,6 +77,7 @@ If you're heading straight from the machine to the platform, keep both your pass
   <img src="/assets/jrpass2tickets.png" width="600">
 </p>
 
+```
 _Important Notes:_ 
 
 - _Not all Green Ticket Machines are created equal. __Make sure to use a machine that mentions “Shinkansen”, “Reserved and Non-Reserved Tickets” or “Pass OK” nearby__. These machines usually have a large green sign above them._
@@ -87,6 +88,8 @@ _Important Notes:_
 - _If you plan to use a non-reserved car, you can bypass the ticket vending machine and go directly through the gate with only your JR pass (note: __some trains only have reserved cars__, so check the train’s details beforehand)._
 - _The Nozomi and Mizuho trains are __not__ covered by any JR area passes._
 - _Ticket machine lines can be long, but they're usually shorter inside the station (just insert your JR pass to get through the JR gate and obtain the reserved seat ticket from a machine inside). Plan accordingly!_
+```
+<img src="/assets/chibbyri.jpeg" align="left" width="600" marginTop="-100">
 
 ##### Reserving Seats Without a JR Pass
 1. Locate the correct ticket machine. 
