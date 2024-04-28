@@ -264,6 +264,7 @@ Toiletries:
 - Quart-Sized bag for travel-sized liquids
 - Conditioner
 - Shampoo
+- Hand Soap
 - Face Lotion
 - Body Lotion
 - Sunscreen
@@ -296,11 +297,12 @@ Misc:
 - Eco-Friendly laundry sheets (18)
 - Small foot roller + lacrosse ball + Peanut Roller
 - Folder filled with travel Documents
-   Discreet fanny pack with backup credit cards, cash, debit cards and passport
+- Discreet fanny pack with backup credit cards, cash, debit cards and passport
 - 40 oz Hydroflask
 - 30oz Brita Filter Bottle (which I carried around in a crossbody, water bottle pouch)
 - Packable backpack (once we started buying souvenirs, we took it out and started filling it )
-- Neck Pillow for flight 
+- Neck Pillow for flight
+- Sweat-wicking Hankies / Hand Towels
 - Compression Cubes (for packing all the clothes in)
 
 There are plenty of things on this list that I would remove if I did it all over again. The “unnecessary list” includes the peanut roller, lacrosse ball, maxi skirt, wireless bra, beard trimmer, and sweatshirt. 
