@@ -1,6 +1,8 @@
+April 28th, 2024
+
 Traveling to Japan can be an exciting and enriching experience, but the preparation process can be overwhelming. As I planned my trip to Japan, I delved deep into research to gather information on transportation, the dozens of JR passes, IC cards, and the cities I was visiting. My goal was to feel confident and well-prepared before setting foot on Japanese soil. I found myself asking more questions than I was finding answers to. The abundance of information scattered across various sources prompted me to compile everything into one comprehensive guide to assist fellow travelers in navigating Japan with ease. 
 
-Reflecting on my incredible journey in Japan, I felt compelled to share my insights to help others avoid common frustrations and fully immerse themselves in the beauty of this unique country. This blog serves as a culmination of my personal experiences and research, aimed at empowering travelers to make the most of their trip and enjoy every moment without the stress of uncertainty. 
+Reflecting on my incredible journey in Japan, I felt compelled to share my insights to help others avoid common frustrations and fully immerse themselves in the beauty of this unique country. This blog serves as a culmination of my personal experiences and research, aimed at empowering travelers to make the most of their trip and enjoy every moment without the stress of uncertainty. It is by no means complete, and I plan to work on it bit by bit.
 
 ## Transportation
 
@@ -216,4 +218,94 @@ For those with a physical card, you will need to reload your card at an IC recha
 
 **Pro-Tip: If using a virtual card, you can reload your Suica at a recharge machine with any remaining Yen notes that you have left over at the end of your trip. We managed to zero out our Suica balances by doing this and by loading the exact additional amount needed to purchase some coffee and duty-free items at the airport.
 
-## Itinerary
+## Before Your Flight and Upon Arrival
+
+### Japan Requirements and Entry
+#### Complete the immigration form on the Visit Japan website. 
+There are two sections to this  immigration form. The first section consists of filling out your personal information, uploading a picture of your passport, and entering in the details of your accommodation (first night) and flight. 
+The second section of the form includes acknowledging Japan’s customs and declarations laws. 
+Once both sections are complete you will have access to download your QR Code. Having the QR code completed and ready to go at least 24 hours ahead of time can save you a lot of time at the airport. 
+Upload your passport information to your airline’s website if they allow it. In the US, airlines are required to verify passenger’s information before boarding. To save yourself the hassle at the airport and to prevent any issues from arising close to your departure date, you should take advantage of any resources the airline offers to input your passport and contact information well in advance. 
+Upon entry into Japan, you will be required to have your fingerprints scanned and your picture taken. While there are exceptions to this (such as a child under 16), expect to go through multiple stages of biometric verification. 
+By the time you pass through the initial Immigration/Customs gate, you’ll already have scanned your fingerprints, had your photo taken, scanned your passport, and scanned your QR code at least once, if not multiple times. You’ll immediately make your way into the baggage area, but don’t put your documents away quite yet. 
+On the other side of the baggage area, you’ll see groups of 5-6 kiosks. You’ll want to locate an available one and then proceed to fill out the prompted information. You’ll scan your passport, your QR code, and you will be asked to fill out the customs form again here for each member of your party. 
+Once completed, you can proceed to the final gate. My partner and I didn’t check any bags, so we proceeded through a metal-detector and were on our merry way. However, it looked like those with checked bags were getting them screened (via x-ray) before proceeding forward.
+After researching older forums, I found that most people spent anywhere between 10-20 minutes in immigration. While the process was extremely quick, the line was long. We prepared the QR code and filled out all of the information through United about 2 weeks in advance. We also didn’t check any bags, and the process took us about 40 minutes after deboarding. 
+I do recommend taking a look at Japan’s Ministry of Health website before packing. Japan’s drug (medicine) laws are much stricter than in the U.S. Over-the-counter (OTC) medicines that we may take for granted in our home countries are often banned in Japan. Marijuana and adderall are two examples of a no-exceptions, prohibited drug.
+
+#### Packing Checklist
+To avoid having to carry heavy luggage around, my partner and I decided to forego checking in any luggage. In fact, between the two of us we only took one 35L carry-on and one standard backpack to Japan. By utilizing compression packs, we managed to fit mostly everything in the Travel Pack carry-on alone. The standard back contained a sweatshirt, our chargers/adapters, our discreet fanny pack, and a lot of empty space (room for souvenirs). Before I start, I should probably mention that my partner (M) and myself (F) are both U.S. mediums, and wear lighter fabrics like cotton. We stayed in Japan for 2 weeks, and we both packed 7 days worth of clothes. See below for the full packing list:
+
+Apparel (F):
+- 4 short-sleeved tees
+- 3 long-sleeved tees
+- 1 Men’s short-sleeved tee (for sleeping)
+- 1 pair of pants (not jeans)
+- 1 maxi skirt
+- Crop pajama pants
+- 6 pairs of underwear
+- 1 sports bra
+- 1 wireless bra
+- 6 pairs of low-cut socks
+- 1 pair of crew socks
+
+In addition, I wore the following to the airport: socks, underwear, bra, cardigan, weatherproof jacket, short sleeve tee, walking shoes, and knee braces.
+
+Apparel (M):
+- 6 short-sleeve tees
+- 1 pair of joggers
+- 6 pairs of underwear
+- 6 pairs of low-cut socks
+- 1 sweatshirt/hoodie
+
+In addition, he wore the following to the airport: socks, windproof/water-resistant jacket, short-sleeve tee, and shoes
+
+Toiletries:
+- Quart-Sized bag for travel-sized liquids
+- Conditioner
+- Shampoo
+- Face Lotion
+- Body Lotion
+- Sunscreen
+- Body Wash
+- Face Wash
+- Toothpaste
+- Face-Cleaning Wipes
+- Deodorant (2)
+- Tweezers
+- Electric Toothbrush + Case (2)
+- Hairbrush
+- 2 Scrunchies
+- Mascara
+- Tula Under-Eye Brightener
+
+Electronics:
+- Beard Trimmer
+- Outlet Adapter
+- Portable Charger (2) and accompanying wires
+- Charger + 2 charging cables
+- Apple Airpods Max
+- Apple Airpods Pro
+
+Medications: 
+- Pack of Tums 
+- Box of Pepto Bismol
+- Box of Claritin
+
+Misc:
+- Eco-Friendly laundry sheets (18)
+- Small foot roller + lacrosse ball + Peanut Roller
+- Folder filled with travel Documents
+   Discreet fanny pack with backup credit cards, cash, debit cards and passport
+- 40 oz Hydroflask
+- 30oz Brita Filter Bottle (which I carried around in a crossbody, water bottle pouch)
+- Packable backpack (once we started buying souvenirs, we took it out and started filling it )
+- Neck Pillow for flight 
+- Compression Cubes (for packing all the clothes in)
+
+There are plenty of things on this list that I would remove if I did it all over again. The “unnecessary list” includes the peanut roller, lacrosse ball, maxi skirt, wireless bra, beard trimmer, and sweatshirt. 
+
+Now I understand that this list is not for everyone. I traded glamorous outfits and makeup for practicality. Hopefully you can use this as a guideline on how to minimize packing for a 2 week trip. While it was tough to leave my cute (albeit, bulky) sweaters at home, I thanked my past self every time I saw anyone lugging around their luggage. 
+
+It is common, however, for hotels to offer luggage delivery services where, for a price, your luggage can get shipped to your next hotel for you. Unless you’re utilizing this resource, however, just know how troublesome bringing large pieces of luggage can be. For starters, larger pieces aren’t allowed on some buses. If you have wheels on your luggage, be aware that many of the sidewalks you’ll be rolling your bags on are cobblestone and therefore, aren’t the easiest to roll your suitcase across. Finally, and most importantly, trips to the train station or subway station always involve a plethora of stairs that you would need to hoist your suitcase up and down.
+
